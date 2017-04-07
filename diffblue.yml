@@ -2,3 +2,6 @@ buildCmd: cd main-module; mvn compile
 testCmd: cd main-module; mvn test
 cbmcArguments:
   java-max-input-array-length: 9
+  refine-strings: true
+  string-max-length: 100
+
