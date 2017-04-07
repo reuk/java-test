@@ -4,5 +4,5 @@ cbmcArguments:
   java-max-input-array-length: 9
   refine-strings: true
   string-max-length: 100
-  timeout: 10000
-timeout: 10000
+  timeout: 100000
+timeout: 100000
